@@ -1,0 +1,92 @@
+body {
+  background: url(musq.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+img {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  position: absolute;
+  top: 2%;
+  left: 2%;
+}
+h1 {
+  font-size: 33px;
+  color: white;
+  position: absolute;
+  top: 0%;
+  left: 8%;
+}
+h2 {
+  font-size: 50px;
+  color: white;
+  position: absolute;
+  top: 8%;
+  left: 35%;
+}
+.img2 {
+  width: 500px;
+  height: 200px;
+  object-fit: cover;
+  position: absolute;
+  top: 40%;
+  left: 2%;
+}
+.btn.m3b {
+  color: white;
+  font-size: 15px;
+  width: 120px;
+  height: 40px;
+  border: 5px solid grey;
+  border-radius: 20px;
+  position: absolute;
+  top: 20px;
+  left: 900px;
+  background: none;
+}
+body {
+  background: url(musq.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+img {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  position: absolute;
+  top: 2%;
+  left: 2%;
+}
+h1 {
+  font-size: 33px;
+  color: white;
+  position: absolute;
+  top: 0%;
+  left: 8%;
+}
+h2 {
+  font-size: 50px;
+  color: white;
+  position: absolute;
+  top: 8%;
+  left: 35%;
+}
+.img2 {
+  width: 950px;
+  height: 200px;
+  object-fit: cover;
+  position: absolute;
+  top: 40%;
+  left: 2%;
+}
+.btn.m3b {
+  color: white;
+  font-size: 15px;
+  width: 120px;
+  height: 40px;
+  border: 5px solid grey;
+  border-radius: 20px;
+  position: absolute;
+  top: 20px;
+  left: 900px;
+  background: none;
+}

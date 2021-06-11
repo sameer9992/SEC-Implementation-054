@@ -1,0 +1,82 @@
+body {
+  background: url(musq.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+img {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  position: absolute;
+  top: 2%;
+  left: 2%;
+}
+h1 {
+  font-size: 33px;
+  color: white;
+  position: absolute;
+  top: 0%;
+  left: 8%;
+}
+h2 {
+  font-size: 50px;
+  color: white;
+  position: absolute;
+  top: 8%;
+  left: 43%;
+}
+.btn.m6u1 {
+  width: 300px;
+  height: 70px;
+  background-color: rgb(79, 128, 168);
+  border-radius: 20px;
+  border: 5px solid grey;
+  font-size: 30px;
+  position: absolute;
+  top: 200px;
+  left: 140px;
+}
+.btn.m6u2 {
+  width: 300px;
+  height: 70px;
+  background-color: rgb(79, 128, 168);
+  border-radius: 20px;
+  border: 5px solid grey;
+  font-size: 30px;
+  position: absolute;
+  top: 325px;
+  left: 140px;
+}
+.btn.m6u4 {
+  width: 300px;
+  height: 70px;
+  background-color: rgb(79, 128, 168);
+  border-radius: 20px;
+  border: 5px solid grey;
+  font-size: 30px;
+  position: absolute;
+  top: 200px;
+  left: 580px;
+}
+.btn.m6u5 {
+  width: 300px;
+  height: 70px;
+  background-color: rgb(79, 128, 168);
+  border-radius: 20px;
+  border: 5px solid grey;
+  font-size: 30px;
+  position: absolute;
+  top: 325px;
+  left: 580px;
+}
+.btn.m6b {
+  color: white;
+  font-size: 15px;
+  width: 120px;
+  height: 40px;
+  border: 5px solid grey;
+  border-radius: 20px;
+  position: absolute;
+  top: 20px;
+  left: 900px;
+  background: none;
+}

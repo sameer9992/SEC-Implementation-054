@@ -1,0 +1,66 @@
+body {
+  background: url(musq.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+h1 {
+  font-size: 50px;
+  color: white;
+  position: absolute;
+  top: 56%;
+  left: 20%;
+}
+p {
+  font-size: 20px;
+  color: white;
+  position: absolute;
+  top: 68%;
+  left: 11%;
+}
+img {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  position: absolute;
+  top: 20%;
+  left: 15%;
+}
+.container {
+  color: white;
+  position: absolute;
+  top: 30%;
+  left: 60%;
+}
+.container h2 {
+  font-size: 25px;
+  border-bottom: 5px solid rgb(79, 128, 168);
+  margin-bottom: 20px;
+  padding: 3%;
+}
+.box {
+  width: 100%;
+  margin: 5px 2px;
+  border-bottom: 0.5px solid rgb(79, 128, 168);
+}
+.box input {
+  background: none;
+  width: 80%;
+  padding: 5px 10px;
+  font-size: 15px;
+  border: none;
+  outline: none;
+  color: white;
+}
+.btn {
+  color: white;
+  font-size: 15px;
+  cursor: pointer;
+  outline: none;
+  width: 50%;
+  margin: 12px 0;
+  padding: 2px;
+  border: 2px solid rgb(79, 128, 168);
+  border-radius: 8px;
+  background: none;
+  position: absolute;
+  left: 50px;
+}
